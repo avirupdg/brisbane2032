@@ -1,0 +1,7 @@
+Attempt to push code to a personal GitHub repository from a corporate device	Open GitHub and push code to personal repo	Upload blocked; user notified; event logged
+U
+pload a file to a personal GitHub account	Push file with sensitive metadata to personal GitHub	Upload blocked; alert generated; audit trail recorded
+
+Push multiple files to an unsanctioned GitHub repo	Push multiple files to personal GitHub repo	All uploads blocked; escalation triggered if repeated attempts occur
+
+Upload attempt via GitHub Desktop using personal credentials	Use GitHub Desktop to push code to personal repo	Upload blocked; user receives policy reminder; log stored
